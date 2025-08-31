@@ -1,0 +1,14 @@
+{
+  "staffUserName" : "Cross@123",
+  "securedPassword" : "Pass@123",
+  "name" : "Cross",
+  "role" : "DOCTOR",
+  "dob" : "2006-09-09",
+  "dateOfJoining" : "2016-09-09",
+  "contactNumber" : "0987654321",
+  "email" : "cross@xxx.com",
+  "address" : "Near Shaitani Theka",
+  "speicialisation" : "Gynecologist",
+  "medicalLicenseNumber" : "MED420",
+  "medicalLicenseValidTill" : "Jun 2031"
+}
